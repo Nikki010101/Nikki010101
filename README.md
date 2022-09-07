@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--**I am Nikhitha Kasuvojula**
+ **I am Nikhitha Kasuvojula**
 
 - 🌱 I’m currently learning Web apps and services
 - 👯 My interests : arts and crafts, singing, exploring things.
